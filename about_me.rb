@@ -7,3 +7,6 @@ puts "My favorite food is chocolate"
 30.times do 
 about_me
 end
+puts "how are you feeling?"
+answer = gets.chomp
+puts "so y"
