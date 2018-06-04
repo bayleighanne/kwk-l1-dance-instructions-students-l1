@@ -9,4 +9,4 @@ about_me
 end
 puts "how are you feeling?"
 answer = gets.chomp
-puts "so y"
+puts "so you're feeling #"
