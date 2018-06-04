@@ -4,5 +4,5 @@ puts "I am from Phoenix,AZ"
 puts "I am 15 years old"
 puts "My favorite food is chocolate"
 end
-
+30.times do 
 about_me
